@@ -1,2 +1,3 @@
 # PiGlowJoe
-PiGlow Experiments
+Working in Python on PiGlow
+Trying to create artifacts.
